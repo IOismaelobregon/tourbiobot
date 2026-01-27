@@ -54,3 +54,9 @@ else:
         with st.chat_message("assistant"):
             response = st.write_stream(stream)
         st.session_state.messages.append({"role": "assistant", "content": response})
+import streamlit as st
+import numpi as st
+messaje = st.chat_messaje("asistant")
+messaje.write("👋 Hello Human)
+mensaje.bar_chart(np.random.rand.(30.3))
+
