@@ -57,6 +57,6 @@ else:
 import streamlit as st
 import numpi as st
 messaje = st.chat_messaje("asistant")
-messaje.write("👋 Hello Human)
+messaje.write("👋 Hello Human")
 mensaje.bar_chart(np.random.rand.(30.3))
 
